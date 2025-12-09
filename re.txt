@@ -1,13 +1,1 @@
-pip install telethon==1.36.0
-pip install random
-pip install telebot==0.0.5
-pip install PyTelegramAPI
-pip install subprocess
-pip install termcolor
-pip install pystyle
-pip install asyncio
-pip install threading
-pip install random
-pip install colorama
-pip install pystyle
-pip install os
+g4f==0.2.0.5
